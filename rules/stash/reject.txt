@@ -1,5 +1,2 @@
-# NAME: reject
-# AUTHOR: krisxing
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-10 15:28
-.paddle.com
+payload:
+  - 'paddle.com'
