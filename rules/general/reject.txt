@@ -1,0 +1,4 @@
+# NAME: reject
+# AUTHOR: krisxing
+# UPDATED: 2024-01-10 15:28
+.paddle.com

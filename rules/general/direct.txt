@@ -1,0 +1,4 @@
+# NAME: direct
+# AUTHOR: krisxing
+# UPDATED: 2024-01-11 17:17
+.lagou.com
