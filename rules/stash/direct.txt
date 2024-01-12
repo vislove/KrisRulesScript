@@ -1,0 +1,6 @@
+# NAME: direct
+# AUTHOR: krisxing
+# UPDATED: 2024-01-11 17:17
+payload:
+  - '+.lagou.com'
+  - '198.18.4.60'  

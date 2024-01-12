@@ -1,2 +1,5 @@
+# NAME: reject
+# AUTHOR: krisxing
+# UPDATED: 2024-01-12 13:38
 payload:
-  - 'paddle.com'
+  - '+.paddle.com'
