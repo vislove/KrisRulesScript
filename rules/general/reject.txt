@@ -4,3 +4,8 @@
 # URL: 
 .paddle.com
 .baihemob.com
+.pglstatp-toutiao.com
+.publish-pic-cpu.baidu.com
+.mobads.baidu.com
+.pglstatp-toutiao.com
+
