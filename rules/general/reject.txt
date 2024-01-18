@@ -8,4 +8,10 @@
 .publish-pic-cpu.baidu.com
 .mobads.baidu.com
 .pglstatp-toutiao.com
-
+.xinduoad.com
+.mtadx.com
+.adwanji.com
+.track.hrmobi.cn
+.adhub.ly.com
+.ad.data.lianjia.com
+.open.laiyagushi.com
