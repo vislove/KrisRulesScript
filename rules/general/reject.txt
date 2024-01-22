@@ -15,8 +15,7 @@
 .adhub.ly.com
 .ad.data.lianjia.com
 .open.laiyagushi.com
-.p1-Im.adkwai.com
-.p1-Im.adukwai.com
+.p1-lm.adkwai.com
 .tobapplog.ctobsnssdk.com
 .pg|statp-toutiao.com
 .open.e.kuaishou.com
@@ -24,6 +23,7 @@
 .gdfp.gifshow.com
 .toblog.ctobsnssdk.com
 .dm.toutiao.com
+.p1-lm.adukwai.com
 .tanx.com
 .umengcloud.com
 .sdk.e.qq.com
