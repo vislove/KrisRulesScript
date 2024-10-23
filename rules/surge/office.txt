@@ -1,15 +1,10 @@
- NAME: office
-# AUTHOR: krisxing
-# UPDATED: 2024-10-23 14:18:16
-
-# QQ Music
-y.qq.com
-y.gtimg.cn
-qqmusic.qq.com
-
-#Byte Dance
-bytegecko.com
-douyinvod.com
-amemv.com
-douyinpic.com
-douyinstatic.com
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN-SUFFIX,y.gtimg.cn
+DOMAIN-SUFFIX,qqmusic.qq.com
+DOMAIN-SUFFIX,music.qq.com
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
