@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,y.gtimg.cn
 DOMAIN-SUFFIX,qqmusic.qq.com
 DOMAIN-SUFFIX,music.qq.com
 DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,isure6-stream-qqmusic.a.bdycdn.cn
+
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,amemv.com
