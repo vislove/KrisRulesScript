@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,soooooor.bar
 IP-CIDR,104.239.87.75/32
+DOMAIN-SUFFIX,landrop.app
