@@ -19,6 +19,12 @@ DOMAIN-SUFFIX,bytednsdoc.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,ecombdimg.com
 DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,qtimg.com
+DOMAIN-SUFFIX,qtimg.cn
+DOMAIN-SUFFIX,osano.com
+DOMAIN-SUFFIX,qq.com
+
+
 
 IP-CIDR,121.51.49.207/32
 IP-CIDR,106.63.18.173/32
