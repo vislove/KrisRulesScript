@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,qtimg.cn
 DOMAIN-SUFFIX,osano.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xiaohongshu.com
 
 
 
