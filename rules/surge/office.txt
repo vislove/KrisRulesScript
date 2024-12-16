@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,zztfly.com
+DOMAIN-SUFFIX,ks-live.com
 
 
 

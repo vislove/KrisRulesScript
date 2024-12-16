@@ -16,7 +16,12 @@ payload:
   - '+.byteimg.com'
   - '+.ecombdimg.com'
   - '+.douyincdn.com'
+  - '+.xhscdn.com'
+  - '+.xiaohongshu.com'
+  - '+.zztfly.com'
 
+
+  - '139.196.151.220/32'
   - '106.63.18.173/32'
   - '119.167.135.229/32'
   - '124.95.142.24/32'
