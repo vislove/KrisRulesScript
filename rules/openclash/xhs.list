@@ -1,9 +1,12 @@
-DOMAIN,fe-static.xhscdn.com
-DOMAIN,fe-video-qc.xhscdn.com
-DOMAIN,sns-avatar-bak.xhscdn.com
-DOMAIN,sns-avatar-qc.xhscdn.com
-DOMAIN,sns-na-i1.xhscdn.com
-DOMAIN,sns-na-i2.xhscdn.com
-DOMAIN,sns-na-i3.xhscdn.com
-DOMAIN,sns-na-i4.xhscdn.com
-DOMAIN,sns-na-i6.xhscdn.com
+payload:
+  - 'xiaohongshu.com'
+  - 'xhscdn.com'  
+  - 'fe-static.xhscdn.com'    
+  - 'fe-video-qc.xhscdn.com'    
+  - 'sns-avatar-bak.xhscdn.com'   
+  - 'sns-avatar-qc.xhscdn.com'   
+  - 'sns-na-i1.xhscdn.com'  
+  - 'sns-na-i2.xhscdn.com' 
+  - 'sns-na-i3.xhscdn.com' 
+  - 'sns-na-i4.xhscdn.com' 
+  - 'sns-na-i6.xhscdn.com' 
