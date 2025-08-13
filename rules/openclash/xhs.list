@@ -7,15 +7,3 @@ DOMAIN,sns-na-i2.xhscdn.com
 DOMAIN,sns-na-i3.xhscdn.com
 DOMAIN,sns-na-i4.xhscdn.com
 DOMAIN,sns-na-i6.xhscdn.com
-IP-CIDR,42.192.255.234/32,no-resolve
-IP-CIDR,61.49.23.101/32,no-resolve
-IP-CIDR,101.75.249.63/32,no-resolve
-IP-CIDR,101.75.249.64/32,no-resolve
-IP-CIDR,123.125.244.83/32,no-resolve
-IP-CIDR,125.39.155.18/32,no-resolve
-IP-CIDR,125.39.155.21/32,no-resolve
-IP-CIDR,140.207.56.254/32,no-resolve
-IP-CIDR,175.22.9.227/32,no-resolve
-IP-CIDR,218.24.84.109/32,no-resolve
-IP-CIDR,221.194.141.170/32,no-resolve
-IP-CIDR,221.194.161.196/32,no-resolve
